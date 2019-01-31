@@ -1,5 +1,5 @@
 /*
-Lowest Score Drop
+Lowest Score Drop:
 • Write a program that calculates the average of a group of test scores, where the
   lowest score in the group is dropped. It should use the following functions:
 • void getScore() should ask the user for a test score, store it in a reference
